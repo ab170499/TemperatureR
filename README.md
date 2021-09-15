@@ -1,2 +1,2 @@
 # TemperatureR
-Temperature Unit Conversion (F,C,K)
+Temperature Unit Conversion (Fahrenheit, Celcius, Kelvin)
